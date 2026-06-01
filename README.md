@@ -270,9 +270,15 @@ int main()
 }
 ```
 
+
 # Output:
 
+
+
+
 <img width="627" height="285" alt="image" src="https://github.com/user-attachments/assets/a8a79acc-5aa9-4eb5-975c-f2578cba7e16" />
+
+
 
 
 # Result: 
